@@ -9,6 +9,6 @@ A plane bagel.
 Haha.  
 what did the toast say to the psychic?
 you bread my mind.
-
-that joke was kinda crumby 
-
+that joke was kinda crumby  
+what do you call a cow with no legs   
+ground beef
