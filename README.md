@@ -1,5 +1,8 @@
 # juan-pull-request-demo
 
-hello the sky is blue  
-what do you call a flying bagel   
-a plane bagel  
+Hello World!
+The sky is gray.
+It has a yellow ball.
+What do you call a flying bagel?   
+A plane bagel.  
+Haha.
